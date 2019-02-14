@@ -18,3 +18,6 @@ else: # it is called the else branch
 print("done")
 
 #to check if two numbers are equal, use ==
+
+
+
