@@ -156,6 +156,7 @@ def is_duplicate_here(list_a,list_b):
                 true_or_false = False 
     return true_or_false = False
     
+    
             
 g= [1,2,3] 
 k= [4, 5, 6] 

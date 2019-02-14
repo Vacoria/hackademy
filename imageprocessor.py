@@ -82,3 +82,4 @@ for pic_name in new_color_game:
 
 
 #VALE FA TORNARE LE IMMAGINI A COLORI E FALLO RI-RUNNARE
+

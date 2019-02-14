@@ -157,6 +157,7 @@ def list_reverse(a_list):
    
 #function that creates a grid with the size you want, thus a list with a list of "-"
 
+
 def create_grid(size):
    new_grid=[]
    for row in range(size):

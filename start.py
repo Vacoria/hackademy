@@ -1,6 +1,7 @@
 import code 
 print("Hello!")
 
+
 a = input ("What is your name?")
 b= input ("What is your friend's name?")
 code.hello2(a,b)

@@ -42,6 +42,7 @@ fill_grid_random(a,3)
 print(a)
 
 
+
 # take a, return no list but just three rows with all the elements alligned
 # like: 
 # --X
@@ -56,5 +57,6 @@ def print_grid(a_grid):
         print(" ")
 
 print_grid(a)
+
 
 
